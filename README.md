@@ -1,2 +1,3 @@
 # Neural-netowrk-Karpathy-Python
-Python code for neural net blog by Karpathy
+# http://karpathy.github.io/neuralnets/ (Hacker's guide to Neural Networks)
+This blog has some great introduction to Neural networks, but the code is written in Javascript. Working on creating the Python version of the code.
